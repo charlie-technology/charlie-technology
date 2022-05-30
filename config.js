@@ -179,3 +179,4 @@ module.exports = {
   ROYALTY_SHARE,
   ROYALTY_ADDRESS,
 };
+#"Copy pasted this code while I was testing something, forgot how where I got it from"
